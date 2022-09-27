@@ -1,0 +1,225 @@
+body{
+	background: linear-gradient(270deg,#000731,#00031f);
+}
+
+.category-name {
+	
+	color: rgba(168, 164, 164, 0.473);
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 5px;
+	padding-right: 30px;
+	padding-left: 30px;
+	display: inline-block;
+	margin-left: 500px;
+	border: 2px solid rgba(168, 164, 164, 0.473);;
+	border-radius: 7px
+}
+
+.books {
+	display: grid;
+	grid-template-columns: 335px 335px 335px 335px;
+	color: lightblue;
+	font-family: cursive;
+	font-size: 15px
+
+	margin-right: 10px;
+	padding-left: 3px;
+	border-radius: 7px
+}
+
+
+.welcome {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 5px 3px 5px #0000006c;
+    font-size: 60px;
+    background-image: url('cover/book shelf1.png');
+    border-radius: 5px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    padding-top: 80px;
+    padding-bottom: 0px;
+}
+.BookWorld {
+    color: brown;
+}
+.brought {
+	font-size: 20px;
+	text-align: left;
+	padding-bottom: 6px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+
+
+.line1 {
+    font-size: 3px;
+    background-color: rgba(168, 164, 164, 0.473);
+    border-radius: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+.intro {
+    color: rgba(99, 96, 96, 0.938);
+    font-family:monospace;
+    text-align: center;
+    font-size: 30px;
+}
+.line2 {
+    font-size: 3px;
+    background-color: rgba(168, 164, 164, 0.473);
+    border-radius: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+.b1 {
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    margin-left: 200px;
+    border: 2px solid #80858a;
+    border-radius: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.b1:link, :visited {
+    color: #80858a;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #b7c5d1;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    text-decoration: #000731;
+}
+.b1:hover {
+    color: rgb(57, 81, 82);
+    background-color: #90c5f7;
+}
+.b1:active {
+    color: rgb(85, 123, 124);
+    background-color: #244564;
+}
+
+.b2 {
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #80858a;
+    border-radius: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.b2:link, :visited {
+    color: #80858a;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #b7c5d1;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    text-decoration: #000731;
+}
+.b2:hover {
+    color: rgb(57, 81, 82);
+    background-color: #90c5f7;
+}
+.b2:active {
+    color: rgb(85, 123, 124);
+    background-color: #244564;
+}
+
+.b3 {
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #80858a;
+    border-radius: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.b3:link, :visited {
+    color: #80858a;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #b7c5d1;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    text-decoration: #000731;
+}
+.b3:hover {
+    color: rgb(57, 81, 82);
+    background-color: #90c5f7;
+}
+.b3:active {
+    color: rgb(85, 123, 124);
+    background-color: #244564;
+}
+
+.b4 {
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #80858a;
+    border-radius: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.b4:link, :visited {
+    color: #80858a;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #b7c5d1;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    text-decoration: #000731;
+}
+.b4:hover {
+    color: rgb(57, 81, 82);
+    background-color: #90c5f7;   
+}
+.b4:active {
+    color: rgb(85, 123, 124);
+    background-color: #244564;
+}
+
+
+.b5 {
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #80858a;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+.b5:link, :visited {
+    color: #80858a;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 3px;
+    border: 2px solid #b7c5d1;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    text-decoration: #000731;
+}
+.b5:hover {
+    color: rgb(57, 81, 82);
+    background-color: #90c5f7;
+}
+.b5:active {
+    color: rgb(85, 123, 124);
+    background-color: #244564;
+}
+
+
+.contact {
+	margin-top: 100px;
+	color: rgba(168, 164, 164, 0.473);
+}
+.telegram {
+    font-size: 15px;
+}
+
