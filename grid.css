@@ -21,8 +21,8 @@ body{
 	grid-template-columns: 335px 335px 335px 335px;
 	color: lightblue;
 	font-family: monospace;
-	font-size: 15px
-
+	font-size: 15px;
+        font-weight: 300;
 	margin-right: 10px;
 	padding-left: 3px;
 	border-radius: 7px
