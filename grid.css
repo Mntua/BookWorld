@@ -20,7 +20,7 @@ body{
 	display: grid;
 	grid-template-columns: 335px 335px 335px 335px;
 	color: lightblue;
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-family: monospace;
 	font-size: 15px
 
 	margin-right: 10px;
